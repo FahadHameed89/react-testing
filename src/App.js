@@ -1,5 +1,5 @@
-import React from 'react';
-import logo from './logo.svg';
+import React from 'react';      /* Imports the react library from node_modules */
+import logo from './logo.svg';  /** Imports the Logo from the src folder */
 import './App.css';
 
 function App() {
