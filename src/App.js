@@ -18,6 +18,14 @@ function App() {
         >
           Learn React
         </a>
+        <a
+ className="App-link"
+ href="https://addons.mozilla.org/en-CA/firefox/addon/react-devtools/"
+ target="_blank"
+ rel="noopener noreferrer"
+ >
+   Try out the REACT Devtools!
+</a>
       </header>
     </div>
   );
